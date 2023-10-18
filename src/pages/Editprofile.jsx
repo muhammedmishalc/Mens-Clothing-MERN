@@ -31,11 +31,6 @@ export default function Editprofile() {
       })
     }
 
-
-    // axios.post(`http://localhost:2500/reg/editprofile/${id}`,input).then((data)=>{
-    //         console.log(data);
-    //         setInput(data.data.details)
-    //     })
   return (
     <React.Fragment>
         <Navbar/>
